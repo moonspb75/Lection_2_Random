@@ -1,0 +1,15 @@
+/Users/yanina/Lection_2_Random/Example_3/bin/Debug/net6.0/Example_3
+/Users/yanina/Lection_2_Random/Example_3/bin/Debug/net6.0/Example_3.deps.json
+/Users/yanina/Lection_2_Random/Example_3/bin/Debug/net6.0/Example_3.runtimeconfig.json
+/Users/yanina/Lection_2_Random/Example_3/bin/Debug/net6.0/Example_3.dll
+/Users/yanina/Lection_2_Random/Example_3/bin/Debug/net6.0/Example_3.pdb
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.csproj.AssemblyReference.cache
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.AssemblyInfoInputs.cache
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.AssemblyInfo.cs
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.csproj.CoreCompileInputs.cache
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.dll
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/refint/Example_3.dll
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.pdb
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/Example_3.genruntimeconfig.cache
+/Users/yanina/Lection_2_Random/Example_3/obj/Debug/net6.0/ref/Example_3.dll
